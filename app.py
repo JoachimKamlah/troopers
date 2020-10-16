@@ -10,7 +10,6 @@ images = [
     "photo-1472457974886-0ebcd59440cc.jpeg",
     "photo-1484656551321-a1161420a2a0.jpeg",
     "photo-1484824823018-c36f00489002.jpeg",
-    "photo-1518331368925-fd8d678778e0.jpeg",
     "photo-1518331483807-f6adb0e1ad23.jpeg",
     "photo-1544816565-aa8c1166648f.jpeg",
     "photo-1547700055-b61cacebece9.jpeg",
